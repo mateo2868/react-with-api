@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* 
+.card {
+  width: 20%;
+ */
+/* } */
+
+.carta{
+  width: 20%;
+
+}
+
+.contenedor {
+  position: relative;
+  overflow: hidden;
+  height: 459px;
+  /* overflow: scroll; */
+  overflow-x: scroll;
+}
